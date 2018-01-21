@@ -1,0 +1,34 @@
+/* add your CSS here */
+
+.card{
+
+  font-family: Times, Arial, sans-serif;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 10px 10px 5px 0px silver;
+}
+.bold{
+  font-weight: bold;
+}
+
+body{
+
+  padding-left: 720px;
+}
+
+img{
+width: 300px;
+}
+
+.info{
+  border: 1px solid silver;
+  padding: 10px;
+}
+
+li{
+  list-style-type: none;
+}
+
+.italics {
+  font-style: italic;
+}
