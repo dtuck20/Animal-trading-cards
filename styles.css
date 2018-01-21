@@ -6,6 +6,7 @@
   padding: 20px;
   width: 300px;
   box-shadow: 10px 10px 5px 0px silver;
+  border-radius: 30px;
 }
 .bold{
   font-weight: bold;
@@ -14,6 +15,7 @@
 body{
 
   padding-left: 720px;
+
 }
 
 img{
